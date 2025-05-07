@@ -63,5 +63,5 @@ Try other classifiers (e.g., XGBoost, SVM)
 
 Cross-validation and model selection
 
-## Author: [ComHek]
-## License: MIT
+### Author: ComHek
+### License: MIT
