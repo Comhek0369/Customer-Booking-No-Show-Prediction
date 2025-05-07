@@ -45,7 +45,7 @@ A **Random Forest Classifier** was used for predicting customer no-shows. The pi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/customer-booking-prediction.git
+   git clone https://github.com/Comhek0369/Customer-Booking-No-Show-Prediction.git
    ```
    
 2. Navigate to the project folder and open the notebooks in Jupyter or VS Code.
